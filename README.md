@@ -1,2 +1,1 @@
-# chegg
-banking automation project
+#banking automation project
